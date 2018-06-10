@@ -44,4 +44,16 @@ let pdata = {
 			// On Your Profile, Put none For No Picture
 		position: 'Rapper', // What Are You Considered In The Group?
 	},
+	'hearteyeslover': {
+		firstName: '', // First Name
+		lastName: '', // Last Name
+		realNameVisible: false, // Can People See Your Real Name? true (yes) | false (no)
+		nickName: 'Hearteyeslover', // The Name People Will See
+		age: 0, // Your Age
+		ageVisible: false, // Can People See Your Age? true (yes) | false (no)
+		bio: 'No Bio', // Write About Yourself
+		pictureUrl: 'none', // The Picture That Will Be Displayed
+			// On Your Profile, Put none For No Picture
+		position: 'Rapper', // What Are You Considered In The Group?
+	},
 };
