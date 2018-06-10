@@ -16,7 +16,7 @@ let pdata = {
 	'darkheartproductions': {
 		firstName: 'James', // First Name
 		lastName: 'Melix', // Last Name
-		realNameVisible: false, // Can People See Your Real Name? true (yes) | false (no)
+		realNameVisible: true, // Can People See Your Real Name? true (yes) | false (no)
 		nickName: 'DarkHeart Productions', // The Name People Will See
 		age: 16, // Your Age
 		ageVisible: true, // Can People See Your Age? true (yes) | false (no)
