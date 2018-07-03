@@ -100,7 +100,7 @@ let pdata = {
 		lastName: '?', // Last Name
 		realNameVisible: false, // Can People See Your Real Name? true (yes) | false (no)
 		nickName: 'Hearteyeslover', // The Name People Will See
-		age: ?, // Your Age
+		age: '?', // Your Age
 		ageVisible: false, // Can People See Your Age? true (yes) | false (no)
 		bio: 'A mystery.', // Write About Yourself
 		pictureUrl: 'none', // The Picture That Will Be Displayed
